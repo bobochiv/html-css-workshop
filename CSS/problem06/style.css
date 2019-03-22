@@ -10,12 +10,12 @@
 div {
   background-color: gray;
 }
-#li {
+li {
   list-style-type: none;
 }
 content {
   text-decoration: underline;
 }
-.monospaced {
+monospaced {
   font-family: monospace;
 }
