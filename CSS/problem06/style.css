@@ -1,10 +1,14 @@
-#centered {
+.centered {
   text-align: center;
 }
-.title {
+#title {
   font-size: 3rem;
 }
+<<<<<<< HEAD
 .subtitle {
+=======
+#subtitle {
+>>>>>>> 617b9c0485fbf4b3283eb46b925bb38f58b081b8
   font-size: 1.5rem;
 }
 div {
@@ -13,9 +17,9 @@ div {
 li {
   list-style-type: none;
 }
-content {
+#content {
   text-decoration: underline;
 }
-monospaced {
+.monospaced {
   font-family: monospace;
 }
