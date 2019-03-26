@@ -1,0 +1,17 @@
+body{
+    margin: 0;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif
+}
+.container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-image: url('/Users/Bobo/Decode/html-css-workshop/CSS/problem15/imgs/bg.jpg');
+    background-size: cover;
+    background-position: center;
+    min-height: 100vh;
+    color: white;
+    font-size: 30px;
+}
+
+    

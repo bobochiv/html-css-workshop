@@ -1,0 +1,64 @@
+.container{
+    margin: 5px;
+    display: flex;
+}
+.title{
+    left: 100px;
+}
+.animals{
+    height: 150px;
+}
+.cats{
+    text-align: center;
+    border-style: dashed;
+    padding: 10px;
+    margin: 30px;
+}
+.dogs{
+    text-align: center;
+    border-style: dashed;
+    padding: 10px;
+    margin: 30px;
+}
+.alpaca{
+    text-align: center;
+    border-style: dashed;
+    padding: 10px;
+    margin: 30px;
+}
+.elephant{
+    text-align: center;
+    border-style: dashed;
+    padding: 10px;
+    margin: 30px;
+}
+.giraffe{
+    text-align: center;
+    border-style: dashed;
+    padding: 10px;
+    margin: 30px;
+}
+.whale{
+    text-align: center;
+    border-style: dashed;
+    padding: 10px;
+    margin: 30px;
+}
+.firefly{
+    text-align: center;
+    border-style: dashed;
+    padding: 10px;
+    margin: 30px;
+}
+.ladybug{
+    text-align: center;
+    border-style: dashed;
+    padding: 10px;
+    margin: 30px;
+}
+.butterfly{
+    text-align: center;
+    border-style: dashed;
+    padding: 10px;
+    margin: 30px;
+}

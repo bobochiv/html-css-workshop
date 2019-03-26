@@ -1,0 +1,23 @@
+body {
+    margin: 0;
+}
+.navbar {
+    display: flex;
+    background-color: #3a3a3a;
+    padding: 25px;
+    align-items: center;
+    justify-content: center;
+}
+.navbar > a {
+    color: white;
+    font-family: 'Poppins', sans-serif;
+    text-decoration: none;
+    transition: opacity 0.2s ease-in-out;
+    margin: 0 50px;
+}
+.navbar > a:hover {
+   opacity: 0.5s;
+}
+.apple{
+    display: block;
+}

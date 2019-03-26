@@ -1,0 +1,23 @@
+.body{
+    margin: 0px;
+}
+.container{
+    display: grid;
+    grid-template-rows: auto 1fr auto;
+    min-height: 100vh;
+
+}
+.bar{
+    display:flex;
+    height: 50px;
+    background-color: slategrey;    
+    color: white;
+    justify-content: center;
+    align-items: center;
+
+}
+.center-content{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
